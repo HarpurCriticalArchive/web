@@ -20,6 +20,8 @@ if [ ${#files[@]} -ne ${#nids[@]} ]; then
   exit
 fi
 # end local customisations
+# change WD to directory of this script
+cd "$(dirname "$0")"
 if [ ! -d $htmldir ]; then
   mkdir $htmldir
 fi
@@ -84,5 +86,5 @@ done
 # now update the images
 # all the images referred to in the mmd files must be on the server too
 # just put them into the about/images directory
-rsync -t ./about/images/*.png http://charles-harpur.org:/var/www/images/about/
+rsync -t ./about/images/*.png charles-harpur.org:/var/www/images/about/
 
