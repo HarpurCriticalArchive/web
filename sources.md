@@ -1,10 +1,10 @@
 ## List of sources
 ## **manuscript books, correspondence and newspapers**
-![Selection of Harpur MSS](/images/about/selection.jpg)
+![expandable](/images/about/selection.jpg)
 __Figure 1. A selection of Harpur MSS at the Mitchell Library__
 
 ###Table of Contents
-* [manuscript books, correspondence and newspapers](#MBCN)
+* [Manuscript books, correspondence and newspapers](#MBCN)
 * [The manuscript books](#TMB)
 * [Poems found in Harpur’s extant correspondence](#HEC)
 * [Colonial newspapers and journals](#CNJ)
@@ -139,6 +139,7 @@ Pages [i–144]: date 1859… … …[waiting for Meredith’s description]
 The only source of Fragment 9, ‘Friendship is but a mood inscribed upon’
 
 #### [D19](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=1120811)
+![expandable](/images/about/harpur-status.jpg)
 (1 poem)<br>
 Pages 1–32: date 1851–1927. Miscellaneous letters, broadsheets and documents; copy of the 1813 baptismal record for Charles Harpur. *Format*: Miscellaneous documents bound and paginated by Mitchell librarian.
 
@@ -327,7 +328,7 @@ plus 2 poems (pamphlet, 1861? A Rhyme and Coleridge’s Christabel). Source copy
 
 ### <a name=HEN></a>Harpur editions to 1900
 The other printed sources are pre-1900 Harpur editions and appearances in anthologies:
-Thoughts. A Series of Sonnets (Sydney: W. A. Duncan, 1845). Source copy: Harpur MS C378, [Mitchell Library](http://www.sl.nsw.gov.au/about/collections/mitchell.html).
+*Thoughts. A Series of Sonnets* (Sydney: W. A. Duncan, 1845). Source copy: Harpur MS C378, [Mitchell Library](http://www.sl.nsw.gov.au/about/collections/mitchell.html).
 (23 poems)
 
 *Songs of Australia, First Series* (D. L. Welch, 1850/1851?). A broadside, or galley for the Australian Era? Source copies: pasted-down sheets in Harpur MS A92 (6 poems) and cutting in MS C384, [Mitchell Library](http://www.sl.nsw.gov.au/about/collections/mitchell.html) (1 poem).

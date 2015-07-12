@@ -1,27 +1,19 @@
 #!/bin/bash
 # Multimarkdown to HTML converter and Drupal uploader
 # this script requires no arguments
-# local customisations
-htmldir=about
-dbuser=postgres
-dbname=drupaldb
-os=`uname`
-remotesite=charles-harpur.org
-# these are the files in the same directory as this script (update.sh)
-files=("about.md" "overview.md" "editorial-policy.md" "biography.md" "permissions.md" "technical-design.md" "challenges.md" "sources.md" "poems-in-anthologies.md")
-# these are the Drupal node ids for the files (same order)
-# you can get them from drupal by going to that opage and noting down 
-# the nid number immediately after "node" in the url bar
-# the nids must be in the same order as the file list and the two 
-# lists have to be the same length
-nids=(30 31 32 33 34 35 36 37 38)
+# include customisations
+# change WD to directory of this script
+cd "$(dirname "$0")"
+if [ -e "custom.sh" ]; then 
+  source custom.sh
+else
+  echo "Missing custom.sh file!"
+  exit
+fi
 if [ ${#files[@]} -ne ${#nids[@]} ]; then
   echo "files and nids arrays must be of the same length!"
   exit
 fi
-# end local customisations
-# change WD to directory of this script
-cd "$(dirname "$0")"
 if [ ! -d $htmldir ]; then
   mkdir $htmldir
 fi
@@ -39,11 +31,11 @@ else
   echo "Unknown OS: $os"
   exit
 fi
-if [ -e "./about/$htmlname" ]; then
+if [ -e "./$htmldir/$htmlname" ]; then
   if [ "$os" = "Linux" ]; then 
-    htmlmoddate=`stat -c %Y "./about/$htmlname"`
+    htmlmoddate=`stat -c %Y "./$htmldir/$htmlname"`
   elif [ "$os" = "Darwin" ]; then
-    htmlmoddate=`stat -f %m "./about/$htmlname"`
+    htmlmoddate=`stat -f %m "./$htmldir/$htmlname"`
   fi
 else
   htmlmoddate=0
@@ -61,7 +53,7 @@ sed -f /dev/stdin "$1" > "$tmpname" << QUOTES
     s/--/\xE2\x80\x93/g
 QUOTES
 # convert to HTML
-multimarkdown "$tmpname" > "./about/$htmlname"
+multimarkdown "$tmpname" > "./$htmldir/$htmlname"
 rm -f $tmpname
 # now send the html to Drupal
 # write command file for postgres to temp.sql
@@ -76,6 +68,7 @@ update field_data_body set body_value = :'content' where entity_id = $2;
 update field_revision_body set body_value = :'content' where entity_id = $2;
 update history set timestamp=cast(extract(epoch from current_timestamp) as integer) where nid=$2;
 PSQL
+echo "\nuploading $htmlname to remote site"
 scp /tmp/upload temp.sql $remotesite:
 ssh $remotesite "psql -w -U $dbuser -f temp.sql $dbname"
 fi
@@ -86,5 +79,6 @@ done
 # now update the images
 # all the images referred to in the mmd files must be on the server too
 # just put them into the about/images directory
-rsync -t ./about/images/*.png charles-harpur.org:/var/www/images/about/
+echo "updating images"
+rsync -t ./$htmldir/images/*.png ./$htmldir/images/*.jpg $remotesite:/var/www/images/$htmldir/
 
