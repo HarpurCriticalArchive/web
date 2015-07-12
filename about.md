@@ -1,4 +1,4 @@
-## ﻿About the Charles Harpur Critical Archive
+## A﻿About the Charles Harpur Critical Archive
 
 The Charles Harpur Critical Archive (CHCA) is a digital archive and a 
 scholarly edition of the poetic works of Charles Harpur (1813--68), the 
