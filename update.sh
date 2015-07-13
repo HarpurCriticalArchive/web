@@ -71,6 +71,7 @@ PSQL
 echo "\nuploading $htmlname to remote site"
 scp /tmp/upload temp.sql $remotesite:
 ssh $remotesite "psql -w -U $dbuser -f temp.sql $dbname"
+ssh $remotesite "drush -r $webroot cache-clear all"
 fi
 }
 for i in "${!files[@]}"; do

@@ -1,6 +1,7 @@
 htmldir=about
 dbuser=postgres
 dbname=drupaldb
+webroot=/var/www/harpur
 os=`uname`
 remotesite=charles-harpur.org
 # these are the files in the same directory as this script (update.sh)
