@@ -47,6 +47,9 @@ roll back to an earlier version or to see who made what change.
 To install it just open a terminal and type 
     git --help
 In OSX Mavericks 10.9 and above this is supposed to install it.
+Now type:
+    git config user.name chasharpur
+    git config --global push.default simple
 
 Installing and configuring gedit
 --------------------------------
