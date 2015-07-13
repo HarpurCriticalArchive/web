@@ -71,7 +71,6 @@ PSQL
 echo "\nuploading $htmlname to remote site"
 scp /tmp/upload temp.sql $remotesite:
 ssh $remotesite "psql -w -U $dbuser -f temp.sql $dbname"
-ssh $remotesite "drush -r $webroot cache-clear all"
 fi
 }
 for i in "${!files[@]}"; do
@@ -81,5 +80,7 @@ done
 # all the images referred to in the mmd files must be on the server too
 # just put them into the about/images directory
 echo "updating images"
-rsync -t ./$htmldir/images/*.png ./$htmldir/images/*.jpg $remotesite:/var/www/images/$htmldir/
+rsync -t ./$htmldir/images/*.png ./$htmldir/images/*.gif ./$htmldir/images/*.jpg $remotesite:/var/www/images/$htmldir/
+echo "clearing caches"
+ssh $remotesite "drush -r $webroot cache-clear all"
 
