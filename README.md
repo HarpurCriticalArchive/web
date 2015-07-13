@@ -41,9 +41,10 @@ Installing and setting up github
 --------------------------------
 Download and install Github for the Mac from https://mac.github.com.
 The CHCA username is chasharpur and the password is S1ngleT0n. Sign in 
-via GitHub->Preferences if not prompted. When you hit the "Commit to 
-master" button please ensure that you have filled out the "Description" 
-box below to describe the changes. Usually just a few words suffice.
+via GitHub->Preferences if not prompted. To commit a change select
+"Go to commit message" in the View menu. After committing you will 
+be able to sync. Click the "sync" button to save your changes to the 
+repository.
 
 Installing and configuring gedit
 --------------------------------
@@ -63,3 +64,5 @@ upload script, substituting your short user name for '{your-user-name}':
     /Users/{your-user-name}/web/update.sh
 4. Next, in the bottom-right corner next to "Appicability" select "Markdown" 
 from the list of languages and check its box.
+5. In Gedit Preferences select Editor tab and uncheck "Create a backup copy 
+of files before saving".
