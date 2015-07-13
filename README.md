@@ -62,7 +62,7 @@ tab. Select the "External Tools" plugin, tick the check box, and close.
 panel click on the "Add a new tool" icon at the bottom. Name it "Upload to 
 HCA". In the right-hand panel add after the first line the path to the 
 upload script, substituting your short user name for '{your-user-name}':
-    /Users/{your-user-name}/web/update.sh
+    /Users/{your-user-name}/Documents/web/update.sh
 4. Next, in the bottom-right corner next to "Appicability" select "Markdown" 
 from the list of languages and check its box.
 5. In Gedit Preferences select Editor tab and uncheck "Create a backup copy 
