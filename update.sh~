@@ -53,7 +53,7 @@ sed -f /dev/stdin "$1" > "$tmpname" << QUOTES
     s/--/\xE2\x80\x93/g
 QUOTES
 # convert to HTML
-/usr/local/bin/multimarkdown "$tmpname" > "./$htmldir/$htmlname"
+multimarkdown "$tmpname" > "./$htmldir/$htmlname"
 rm -f $tmpname
 # now send the html to Drupal
 # write command file for postgres to temp.sql

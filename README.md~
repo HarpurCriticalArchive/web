@@ -38,7 +38,7 @@ to 600. It can also be added to a git repository to permit
 passwordless check in.
 
 Installing and setting up github
---------------------------------
+-----------------------------
 Download and install Github for the Mac from https://mac.github.com.
 The CHCA username is chasharpur and the password is S1ngleT0n. Sign in 
 via GitHub->Preferences if not prompted. When you hit the "Commit to 
