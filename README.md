@@ -41,10 +41,11 @@ Installing and setting up github
 --------------------------------
 Download and install Github for the Mac from https://mac.github.com.
 The CHCA username is chasharpur and the password is S1ngleT0n. Sign in 
-via GitHub->Preferences if not prompted. To commit a change select
-"Go to commit message" in the View menu. After committing you will 
-be able to sync. Click the "sync" button to save your changes to the 
-repository.
+via GitHub->Preferences if not prompted. 
+First you have to commit your changes. For this you need to type a 
+short summary message. 
+After committing you will be able to sync. Click the "sync" button 
+to save your changes to the repository.
 
 Installing and configuring gedit
 --------------------------------
