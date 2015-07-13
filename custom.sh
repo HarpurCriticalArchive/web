@@ -1,10 +1,12 @@
 # name of directory within /images on the webserver where 
 # images are stored, and where the html files are stored here
 htmldir=about
-# the user name whose password should be entered in .pgpass of the #
-#user's account on the server e.g. in /home/desmond/.pgpass if I use 
+# the user name whose password should be entered in .pgpass of the
+# user's account on the server e.g. in /home/desmond/.pgpass if I use 
 #this script as the user "desmond" .pgpass looks like: 
 # *:*:*:postgres:jabberw0cky
+# supervisor also must set /etc/postgresql/9.1/main/pg_hba.conf 
+# local all all to md5 from default "peer" (on server only)
 dbuser=postgres
 # the name of the postgres database where Drupal stores its stuff
 dbname=drupaldb
