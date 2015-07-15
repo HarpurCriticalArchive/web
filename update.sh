@@ -65,8 +65,6 @@ awk 1 ORS='\\r' /tmp/upload
 cat  << PSQL > temp.sql
 \set content \`cat upload\`
 update field_data_body set body_value = :'content' where entity_id = $2;
-update field_revision_body set body_value = :'content' where entity_id = $2;
-update history set timestamp=cast(extract(epoch from current_timestamp) as integer) where nid=$2;
 PSQL
 echo "\nuploading $htmlname to remote site"
 scp /tmp/upload temp.sql $remotesite:
