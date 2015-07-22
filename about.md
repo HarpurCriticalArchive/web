@@ -28,6 +28,7 @@ For further information about the CHCA see:
   * [Archival and Editorial Policy](32)
   * [Technical Design](35)
   * [Permissions, Rights and Acknowledgements](34)
+
 * Behind-the-scenes project documents:
   * [List of sources: manuscript books, correspondence and newspapers](37)
   * [Table of sources, arranged by work and version](/harpur/works?projid=english/harpur)

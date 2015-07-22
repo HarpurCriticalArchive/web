@@ -27,7 +27,7 @@ To address this situation the CHCA archives the basic materials for an
 edition (images and diplomatic transcriptions of the original documents, 
 both handwritten and printed) and provides edited reading texts, 
 together with textual commentary and explanatory notation. At first 
-release in January 2016, the archival responsibility has been 
+release in March 2016, the archival responsibility has been 
 discharged. The editing is ongoing.
 
 The texts are presented in transcription – and as edited, annotated and 
@@ -71,6 +71,6 @@ date.
 
 The publisher of the CHCA is Sydney University Press, a division of the 
 University of Sydney Library, which archives the CHCA files permanently. 
-Contributors are sought. See also Permissions, Rights and 
+Contributors are sought. See further, Permissions, Rights and 
 Acknowledgements.
 
