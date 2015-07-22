@@ -18,7 +18,7 @@ In part, this was because Harpur was such a prolific poet and an
 inveterate reviser, and because the papers he left behind at his death 
 fell into a confusing state over the following decades as his family 
 sought to promote his reputation. Extant today are over 2,700 versions 
-of his 685 works in verse, as well as the often fascinating prose notes 
+of his 686 works in verse, as well as the often fascinating prose notes 
 that he wrote for them. Most of the versions have never been published.
 
 ### Archival and editorial policy

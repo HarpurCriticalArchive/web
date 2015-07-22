@@ -1,10 +1,10 @@
 The Charles Harpur Critical Archive is a digital archive and a 
 scholarly edition of the poetic works of Charles Harpur (1813--68), the 
-most significant poet of colonial New South Wales. A Romantic celebrator 
+most important poet of colonial New South Wales. A Romantic celebrator 
 of Australian landscape, a political satirist, a love poet and early 
 environmentalist, Harpur and his works remain relevant today. But they 
 are not easily accessible.
-   This is because Harpur was a prolific poet and an inveterate reviser. 
+	This is because Harpur was a prolific poet and an inveterate reviser. 
 Extant today in manuscript, and in colonial newspaper and other printed 
 forms, are over 2,700 versions of his 686 works in verse, as well as the 
 often fascinating prose notes that he wrote for them. Most of these 
