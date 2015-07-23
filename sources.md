@@ -1,10 +1,9 @@
-## List of sources
-## **manuscript books, correspondence and newspapers**
+## LIST OF SOURCES
+## **manuscript books, correspondence, newspapers and printed books**
 ![expandable](/images/about/selection.jpg)
-__Figure 1. A selection of Harpur MSS at the Mitchell Library__
+__selection of harpur mss at the mitchell library__
 
-###Table of Contents
-* [Manuscript books, correspondence and newspapers](#MBCN)
+
 * [The manuscript books](#TMB)
 * [Poems found in Harpur’s extant correspondence](#HEC)
 * [Colonial newspapers and journals](#CNJ)

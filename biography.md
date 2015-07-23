@@ -1,5 +1,5 @@
-## Biographical sketch
-### Table of Contents
+## BIOGRAPHICAL SKETCH
+
 * [The first major Australian poet](#FMAP)
 * [Early life and then Sydney](#ELTS)
 * [Harpur’s character, outlook and politics](#HCOP)

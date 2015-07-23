@@ -1,4 +1,4 @@
-## <a name=TEC></a>The editorial challenge
+## <a name=TEC></a>THE EDITORIAL CHALLENGE
 ### Table of Contents
 * [The editorial challenge](#TEC)
 * [Archival aim versus editorial aim](#AVE)

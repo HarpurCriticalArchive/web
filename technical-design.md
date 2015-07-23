@@ -1,5 +1,6 @@
-## Technical design
-### Table of Contents
+## TECHNICAL DESIGN
+
+
 * [AustESE](#AUS)
   * [The AustESE ontology](#AEO)
 * [AustESE tools](#AET)

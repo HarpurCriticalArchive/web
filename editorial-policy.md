@@ -1,6 +1,5 @@
-## Archival and Editorial Policy
+## ARCHIVAL AND EDITORIAL POLICY
 
-### Table of Contents
 * [Archival scope of the Charles Harpur Critical Archive](#AS)
 * [Editorial scope of the CHCA](#ES)	
 * [Sources](#SOURCES)	

@@ -1,4 +1,4 @@
-## Poems by Charles Harpur in anthologies to 2004
+## POEMS BY CHARLES HARPUR IN ANTHOLOGIES TO 2004
 ### Anthology cue-titles
 <table class=cue-titles><tr><td>Ackland</td><td><i>The Penguin Book of 19th Century Australian Literature</i>, ed. Michael Ackland (Ringwood, Vic.: Penguin, 1993)</td></tr>
 <tr><td>Allardice</td><td><i>The Language of Love: An Anthology of Australian Love Letters, Poetry and Prose (North Ryde: Angus & Robertson, 1991)</td></tr>

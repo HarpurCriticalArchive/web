@@ -1,5 +1,6 @@
-## Permissions, Rights and Acknowledgements
-### Table of Contents
+## PERMISSIONS, RIGHTS AND ACKNOWLEDGEMENTS
+
+
 * [Permissions](#PER)
 * [Rights](#RIG)
 * [Acknowledgements](#AKN)
