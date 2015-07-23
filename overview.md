@@ -32,7 +32,7 @@ The texts are presented, whether in transcription or as edited, at the level of 
 *work*. 
 
 Via the Browse menu the reader chooses a poem. An archival transcription or edited reading text appears next to an image of the original document. The reader can change the version via a menu at the top. Invoking the Multiway Compare Tool allows the reader to compare changes in the 
-successive versions of the same work across biographical periods. In addition, the Timeline of 'compositions' allows the reader to identify versions of poems written at roughly the same time and then to choose them, one at a time, via the Browse menu.
+successive versions of the same work across biographical periods. In addition, the Timeline of compositions allows the reader to identify versions of poems written at roughly the same time and then to choose them, one at a time, via the Browse menu.
 
 A facility 
 for collaborative contributions to the CHCA by its users is planned. 
