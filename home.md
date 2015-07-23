@@ -11,7 +11,7 @@ forms, are over 2,700 versions of his 686 works in verse, as well as the
 often fascinating prose notes that he wrote for them. Most of these 
 versions have never been published - until now.
 
-Use the Browse menu to start exploring the poems, but it is a good idea to read the brief 
+Use the Browse menu to [start exploring the poems](/harpur/browse), but it is a good idea to read the brief 
 [Overview of the CHCA](node/31) first, or the much fuller Introduction below.
 
 Introduction to the CHCA:
