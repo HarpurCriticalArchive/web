@@ -71,6 +71,5 @@ date.
 
 The publisher of the CHCA is Sydney University Press, a division of the 
 University of Sydney Library, which archives the CHCA files permanently. 
-Contributors are sought. See further, Permissions, Rights and 
-Acknowledgements.
+Contributors are sought. See further, [Permissions, rights and acknowledgements](34).
 
