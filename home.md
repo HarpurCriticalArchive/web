@@ -10,7 +10,7 @@ forms, are over 2,700 versions of his 686 works in verse, as well as the
 often fascinating prose notes that he wrote for them. Most of these 
 versions have never been published - until now.
 
-Use the Browse menu to start exploring, but it is a good idea to read the brief  
+Use the Browse menu to start exploring the poems, but it is a good idea to read the brief  
 [Overview of the CHCA](31) first, or the much fuller Introduction below.
 
 Introduction to the CHCA:  
@@ -19,8 +19,3 @@ Introduction to the CHCA:
   * [Archival and editorial policy](32)  
   * [Technical design](35)  
   * [Permissions, rights and acknowledgements](34)  
-Behind-the-scenes project documents:  
-  * [List of sources: manuscript books, correspondence and newspapers](37)  
-  * [Table of sources: arranged by work and version](/harpur/works?projid=english/harpur)  
-  * [List of poems in anthologies to 2004](38)  
-  * [Structural re-workings of the *Analytical Finding List* of 2002](10)
