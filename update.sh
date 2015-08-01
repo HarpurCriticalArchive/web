@@ -51,6 +51,7 @@ sed -f /dev/stdin "$1" > "$tmpname" << QUOTES
     s/"/\xE2\x80\x9D/g
     s/---/\xE2\x80\x94/g
     s/--/\xE2\x80\x93/g
+    s/{last-modified}/`date`/
 QUOTES
 # convert to HTML
 /usr/local/bin/multimarkdown "$tmpname" > "./$htmldir/$htmlname"
