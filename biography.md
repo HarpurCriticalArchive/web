@@ -86,3 +86,5 @@ July 2015
 
 <a name=FN6>6)</a> See Timeline: Letter, Angus & Robertson (George Robertson) to Mary Harpur, 11 July 1896.
 
+<p class=last-modified>Last modified {last-modified}</p>
+

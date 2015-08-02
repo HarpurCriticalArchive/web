@@ -7,7 +7,7 @@ are not easily accessible.
 
 This is because Harpur was a prolific poet and an inveterate reviser. 
 Extant today in manuscript, and in colonial newspaper and other printed 
-forms, are over 2,700 versions of his 686 works in verse, as well as the 
+forms, are nearly 2,700 versions of his 680 works in verse, as well as the 
 often fascinating prose notes that he wrote for them. Most of these 
 versions have never been published - until now.
 
@@ -21,3 +21,11 @@ Introduction to the CHCA:
   * [Archival and editorial policy](node/32) 
   * [Technical design](node/35) 
   * [Permissions, rights and acknowledgements](node/34) 
+
+
+
+
+
+
+
+<p class=last-modified>Last modified {last-modified}</p>

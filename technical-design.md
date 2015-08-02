@@ -120,3 +120,5 @@ July 2015
 
 ### Notes
 <a name=FN1>1)</a> See ‘Rights’ below for the history and funding of AustESE. The code for AustESE, and another account of its development, may be found on [Github](https://github.com/uq-eresearch/AustESE/wiki).  Built on [Drupal](http://www.drupal.org), the environment is similar to other content management systems.
+
+<p class=last-modified>Last modified {last-modified}</p>

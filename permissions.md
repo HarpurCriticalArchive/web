@@ -6,7 +6,7 @@
 * [Acknowledgements](#AKN)
 
 ### <a name=PER></a>Permissions
-Digital images of the bulk of the manuscript and pictorial material published in the CHCA were sourced from the holder of the originals: Mitchell Library, State Library of New South Wales, Sydney. The Library’s permission to publish the material is gratefully acknowledged. This permission extends beyond materials produced by Charles Harpur to images of his two-way correspondence with contemporaries. Correspondence in other libraries has been included, and the co-operation of the State Library of Victoria and Trinity College, University of Melbourne is gratefully recorded. [(1)](#FN1)
+Digital images of the bulk of the manuscript and pictorial material published in the CHCA were sourced from the holder of the originals: Mitchell Library, State Library of New South Wales, Sydney. The Library’s permission to publish the material is gratefully acknowledged. This permission extends beyond materials produced by Charles Harpur to images of his two-way correspondence with contemporaries. Correspondence in other libraries has been included, and the co-operation of the State Library of Victoria and Trinity College, Melbourne is gratefully recorded. [(1)](#FN1)
 
 Copies of the image and checked transcription files are preserved by Sydney University Library, of which Sydney University Press, publisher of the CHCA, is a division. Other project files (edited reading texts, commentary, contributions of collaborators) will similarly be preserved as successive stages of publication are reached.
 
@@ -48,6 +48,8 @@ Eggert’s work as editor remains ongoing, as does Elizabeth Webby’s. She is c
 July 2015**
 
 ### Notes
-<a name=FN1>1)</a> Harpur’s letters to Henry Kendall of 17 December 1865, 10 June 1866, 7 July 1866 and 15 October 1867 are held by the State Library of Victoria (Autograph collection, M5099–M5102). His letter to Kendall of 14 June 1851 if held by Trinity College, University of Melbourne (Rusden Papers). The remainder are held by the Mitchell Library, State Library of NSW.
+<a name=FN1>1)</a> Harpur’s letters to Henry Kendall of 17 December 1865, 10 June 1866, 7 July 1866 and 15 October 1867 are held by the State Library of Victoria (Autograph collection, M5099–M5102). His letter to G. K. Rusden of 14 June 1851 is reproduced courtesy of the Trinity College Archives, Melbourne (Rusden Papers). The remainder are held by the Mitchell Library, State Library of NSW.
 
 <a name=FN2>2)</a> [The Creative Commons Licence](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+<p class=last-modified>Last modified {last-modified}</p>

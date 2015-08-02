@@ -84,7 +84,7 @@ versions found in each of the 24 manuscript books, see [List of
 Sources](33). This List also gives the source of the 17 versions of 
 poems found in Harpur’s handwritten correspondence. Fifteen are 
 preserved at the Mitchell Library, one at the State Library of Victoria 
-and another at Trinity College, University of Melbourne.
+and another at Trinity College, Melbourne.
 
 The [List of Sources](33) also enumerates the surprisingly wide range of 
 colonial newspapers and journals in which Harpur’s poetry appeared. 
@@ -94,7 +94,7 @@ country Victoria and Adelaide, places Harpur never visited. The number
 of newspapers would have been swelled by the 24 poems present in 
 unidentified newspaper cuttings in the manuscript books in the Mitchell, 
 and also probably by printings and reprintings in other newspapers that 
-have escaped attention so far.
+have escaped attention so far or are no longer extant.
 
 Finally, the [List of Sources](33) gives bibliographic details of the 
 pamphlets and books published under Harpur’s name to 1900 and of the 
@@ -113,33 +113,26 @@ coded by CHCA digital archivist Meredith Sherlock, who also prepared
 transcriptions of all the published sources and all the poems contained 
 in correspondence.
 
-Checked transcriptions of all the available versions are included in the 
-CHCA, with only a few exceptions (owing to resource constraints), as 
-follows:
+Excluding the plays (which are not part of the CHCA),[(2)](#FN2) checked transcriptions of all the available poetic versions are included, with only a few exceptions (owing to resource constraints):
 
-* ‘The Temple of Infamy’ in MS A87-1, pp. 353–[380]
-* MS B78, pp. 1–156 and [second pagination] i–iv, containing draft versions of ‘Genius Lost’
-* MS C377, pp. i, 1–134, which contains only a version of ‘The Kangaroo Hunt’ and its great many notes
-* the play ‘King Saul’ in MS A87-2, pp. 559–98
-* the play *The Bushrangers* in all its published and manuscript versions [(2)](#FN2)
-
-Work on A96 is ongoing.
+* ‘The Temple of Infamy’ H580b and, in a note to this poem, ‘A Sad Case’ H488a, both in MS A87-1, pp. 353–[380]
+* ‘Genius Lost’: draft versions in MS B78, pp. 1–156 and [second pagination] i–iv  
 
 **where a manuscript version is difficult to transcribe** because of 
 illegibility or the unusual complexity of its revisions, an unchecked 
 transcription derived from the Kolkata XML files has been uploaded as an 
-interim measure. There are currently 35 of these. Images of and metadata 
+interim measure. There are currently 36 of these; they are listed at the end of this document. Images of and metadata 
 for all the versions for which there is no transcription, or only an 
 unchecked one, are nonetheless available in the CHCA.
 
-**totals**: There are 686 works in the CHCA in 2,704 versions. The 
-terminal year for the count is 1900. Of the 2,704 versions, 1,573 are in 
-manuscript (mostly Harpur autographs, with a few in Mary Harpur or their 
-son Washington Harpur’s hand), 677 in extant newspapers or magazines, 
+**totals**: Not counting the plays there are 680 works in the CHCA in 2,695 versions. The 
+terminal year for the count is 1900. Of the 2,695 versions, 1,574 are in 
+manuscript (mostly Harpur autographs, with a few in Mary Harpur’s or their 
+son Washington Harpur’s hand), 680 in extant newspapers or magazines, 
 111 in non-extant newspapers with the versions surviving only as 
-cuttings, 185 in Harpur’s pamphlet, broadsheet and book publications, 
+cuttings, 184 in Harpur’s pamphlet, broadsheet and book publications, 
 117 as cuttings of newspapers or published sources with holograph 
-revisions, 19 in correspondence and 19 in published anthologies.
+revisions, 19 in correspondence and 19 in published anthologies. The count of versions excludes anthology reprintings to 1900 sourced from Harpur’s book publications.
 
 ### <a name=DPWV></a>Designation of poetic works and versions
 
@@ -177,6 +170,7 @@ requires unique not sequential identifiers. Thus the fact that some H
 numbers were dispensed with once duplicates in the Finding List were 
 identified, and that some version identifiers have similarly been 
 deleted or added, is of no consequence in the CHCA.
+
 * In his later years, Harpur reworked many of his poems into series or 
 sequences. Deciding whether to classify a poem as a work in its own 
 right or only as part of a larger work in the CHCA therefore became 
@@ -218,7 +212,7 @@ Scene’, ‘A Supernaturalised Battle-Piece’ and ‘The Tower of the Dream’
 has been substantially modified.
 
 In summary, the designations of works and versions in the CHCA supersede 
-those of the Finding List but of course, like any other editorial 
+those of the *Finding List* but of course, like any other editorial 
 interpretation, remain open to argument.
 
 ### <a name=HNVT></a>Harpur’s notes, versions and titles
@@ -251,7 +245,7 @@ annotation of biblical, literary, historical and other allusions,
 including parallels with other works by Harpur. The editorial work is 
 ongoing.
 
-Harpur's extant correspondence is summarised item by item, and extracts 
+Harpur’s extant correspondence is summarised item by item, and extracts 
 are transcribed, in the Timeline section of the CHCA.
 
 The transcription of **poems in harpur correspondence** may include the 
@@ -279,11 +273,12 @@ often substantially, a heavily revised poem might become virtually a new
 work, and thus be better classified as such, rather than as another 
 version of the same work. For example:
 
-* The *Finding List’s* first three versions of ‘The Temple of Infamy’ 
+* The *Finding List*’s first three versions of ‘The Temple of Infamy’ 
 (each is 34 lines in length) have been re-categorised as versions of a 
 separate work titled ‘Wentworth’ to which they closely relate, as these 
 lines were very much altered for their later inclusion in the much 
 longer ‘Temple’ of c. 500 lines.
+
 * In the case of ‘Wordsworth’s Poetry’ the work designation is 
 problematic: in MS A95 the first reading ‘How much, my Nora, in this 
 world—how much’ (as untitled ‘XXV’ in the series ‘Records of a Poet’s 
@@ -293,13 +288,13 @@ subject (p. 15). The first reading was not further transcribed, but the
 second is found in the later MS A87-1. In this unique instance the two 
 states of the same transcription have been classed as versions of two 
 different works.
+
 * Again, ‘The Complaint’ (listed under ‘Petrarchian Musings’ in the 
 *Finding List*) is an early version of ‘Records of a Poet’s Love X’, but 
 the two have been deemed distinct enough to warrant separate work 
 identifiers. Similarly with ‘Delia’ and ‘Records of a Poet’s Love XVI’.
 * On the other hand, stanzas 2, 3 and 4 of ‘The Hunter’s Indian Dove’ 
-are drawn from the earlier ‘My Sable Fair’. Thus these two *Finding 
-List* entries are now treated as the same work, as are ‘Educational 
+are drawn from the earlier ‘My Sable Fair’. Thus these two *Finding List* entries are now treated as the same work, as are ‘Educational 
 Mottoes’ and ‘A School Motto’.
 
 Some **fragments** have been designated versions in their own right, 
@@ -334,8 +329,8 @@ Sea Captain’ were acknowledged as received by the *Sydney Times* on 23
 September 1834, but no such published versions have been sighted. ‘The 
 Anchor’ was sent by Harpur to Henry Parkes in a letter of 4 March 1855, 
 but it has not survived. ‘To William Wordsworth’ (in C376, p. 594) is 
-not a version, but a scrap from Harpur’s pamphlet Thoughts: A Series of 
-Sonnets (1845): Harpur used it to write on the blank verso.
+not a version, but a scrap from Harpur’s pamphlet *Thoughts: A Series of 
+Sonnets* (1845): Harpur used it to write on the blank verso.
 
 Authorial revision in holograph on a newspaper cutting creates a new 
 version; but **unamended newspaper cuttings** are not classified as 
@@ -354,7 +349,7 @@ With the benefit of [TROVE](http://trove.nla.gov.au) and other online
 resources, the CHCA was also able to add 46 versions that were either 
 inadvertently omitted from the *Finding List* or not known to its 
 compilers. Further scanning of colonial newspapers for TROVE in the 
-future may reveal more, but no new Harpur works have been discovered.
+future may reveal more. One new Harpur work has been discovered, but it is only a four-line fragment.
 
 A small number of **versions for which no transcription or image is 
 currently available** remain in the CHCA. They are retained as 
@@ -369,22 +364,25 @@ the poems to be identified and transcribed.
 **other anomalies** are:
 
 * A placeholder for a version of the ‘Prelude’ from ‘Genius Lost’, 
-unsighted by the Finding List compilers but perhaps known to them in an 
+unsighted by the *Finding List* compilers but perhaps known to them in an 
 unidentified secondary source, is included. Its unique first line is 
 strong evidence of its existence, though a search on TROVE has failed to 
-find the lines in the Sydney Chronicle (its likely but queried source, 
+find the lines in the *Sydney Chronicle* (its likely but queried source, 
 according to the compilers) or any other paper of the period.
+
 * ‘A Harpur Discovery’ in *Southerly* 5 (1944) presents a holograph 
 version of the sonnet ‘To Doctor Lang’ in a copy of Harpur’s *The 
 Bushrangers* submitted by an anonymous contributor. The CHCA includes 
 the transcription from *Southerly*, but no image of the original 
 manuscript is available.
 
-Finally, the *Finding List’s* version of ‘Epitaph on a Sailor’ given as 
-published in the Empire of 6 June 1857 has not been found. Its first 
+* The *Finding List*’s version of ‘Epitaph on a Sailor’ given as 
+published in the *Empire* of 6 June 1857 has not been found. Its first 
 line matches that in the *Braidwood Dispatch* of 1861, but the entry 
 cannot be simply dismissed as a *Finding List* error. This version is 
 also retained as a placeholder.
+
+* Similarly treated are missing single versions of four other poems reported in the *Finding List*: ‘Epitaph on a Sailor’ H119b (not found in *Empire*); ‘Genius Lost. Prelude’ H151-Ab (not found in *Sydney Chronicle*); ‘The Losses of the Past’ H229c (cutting not found in a reported copy of *The Bushrangers*); and ‘Theodic Optimism H583c (ditto).
 
 ### <a name=EP></a>Editorial policy
 
@@ -464,32 +462,69 @@ final-intentions question does not therefore trip up the editorial
 effort. [(4)](#FN4)
 
 **Meredith Sherlock and Paul Eggert**
+
 July 2015
 
-#### Notes
-<a name=FN1>1)</a> A total of 192 partial or complete reprintings of 
+### <a name=LMV></a>Addendum: List of unchecked transcriptions of manuscript versions
+* ‘Be Patient with a Fool’ H034b. A87-2
+* ‘Dawn and Sunrise in the Snowy Mountains’ H085a. C376
+* ‘The Death of Shelley’ H088b. C376
+* ‘Early Summer’ H106e. A95
+* ‘Hope On’ H177b. C382
+* ‘Under the Wild Fig Tree’ H238a. C376
+* ‘A Lyrical Love Story 1:9’ H264a. C376
+* ‘A Lyrical Love Story 3:3’ H274b. C376
+* ‘Monodies II’ H298a. A87-2
+* ‘My Faith in Poetry] H311b. A93
+* ‘The Fate of Poetic Genius’ H312d. A95
+* ‘My Only Hate’ H323a. A87-2
+* ‘Records of a Poet’s Love II’ H419d. A95
+* ‘Records of a Poet’s Love IX’ H426e. A95
+* ‘Records of a Poet’s Love XII’ H429c. A95
+* ‘Records of a Poet’s Love XVI’ H433c. A95
+* ‘Records of a Poet’s Love XVII’ H434d. A95
+* ‘Records of a Poet’s Love XX’ H437d. A95
+* ‘Records of a Poet’s Love XXIV’ H441c. A95
+* ‘Rhymed Criticisms III. Milton. His Minor Poems’ H463-Bc. C376
+* ‘Rhymed Critcicisms V. Dryden’ H465a. C382
+* ‘Similes from Homer IX’ H509b. A87-2
+* ‘Social Charity’ H517c. A95
+* ‘Springtime Gladness’ H559c. C382
+* ‘A Summer Night Scene’ H574b. C376
+* ‘A Supernaturalised Battle-Piece I’ H575-Aa. B78
+* ‘To a Friend’ H596c. A95
+* ‘To Henry Parkes on Re-reading’ H611a. C382
+* ‘To William Wordsworth’ H640f. A95
+* ‘Vesper. A Rhyme for Children’ H661a. C382
+* ‘Wicliffe’ H683c. A95
+* ‘The Witch of Hebron’ H689a, H689b, H689c, H689d (all A90), H689f (C376) 
+
+
+### Notes
+<a name=FN1>1.</a> A total of 192 partial or complete reprintings of 
 poems by Harpur in 66 anthologies have been located: 5 anthologies from 
 the 19th century, 57 from the 20th, and 4 from the early 21st. Also a 
 curio publication – 22 snippets from Harpur’s poems arranged by 
 calendar-day of the year in *The Australasian Birthday-Book* – appeared 
 in 1885.
 
-<a name=FN2>2)</a> A transcription of *The Bushrangers* was prepared for 
+<a name=FN2>2.</a> I.e. the plays ‘King Saul’ in MS A87-2, pp. 559–98 and
+*The Bushrangers* in its published and manuscript versions. A transcription of *The Bushrangers* was prepared for 
 SETIS at the University of Sydney Library from [the print edition of 
 1853](http://purl.library.usyd.edu.au/setis/id/set0001). The CHCA makes 
 available images of the play from a rare copy of the book in the same 
-library (at shelfmark RB 1553.14).A checked transcription of roughly 
-half of ‘The Tragedy of Donohoe’ published as fragments in the *Sydney 
-Monitor* in 1835 has been incorporated for the light it throws on the 
-young Harpur as poet. It is thus a first step for any collaborator 
-wishing to add the plays to the CHCA.
+library (at shelfmark RB 1553.14). A checked transcription of roughly 
+half of an early version ‘The Tragedy of Donohoe’, published as fragments in the *Sydney 
+Monitor* in 1835, has been incorporated for the light it throws on the 
+young Harpur as poet, but it is not part of the count of poetic versions and works. It is thus a first step for any collaborator 
+wishing to add the plays to the CHCA. If the plays are added their version H numbers will be: ‘The Bushrangers’ H058a, H058b; ‘The Bush-Rangers’ H059a; ‘King Saul’ H210a, H210b; ‘Stalwart the Bushranger’ H566a, H566b.
 
-<a name=FN3>3)</a> *The Poems of Charles Harpur in Manuscript in the 
+<a name=FN3>3.</a> *The Poems of Charles Harpur in Manuscript in the 
 Mitchell Library and in Publication in the Nineteenth Century: An 
 Analytical Finding List*, ed. Elizabeth Holt and Elizabeth Perkins 
 (Canberra: Australian Scholarly Editions Centre, 2002).
 
-<a name=FN4>4)</a> Appendix B in the *Finding List* gives further 
+<a name=FN4>4.</a> Appendix B in the *Finding List* gives further 
 description of the problems surrounding the Major Manuscripts and other 
 numbered collections (pp. 220–5). It also transcribes from C381 Mrs 
 Harpur’s contents list of groupings of poems, annotated ‘1890’ and 
@@ -498,3 +533,5 @@ book publication. But there are complications: some of the numbered
 collections are no longer extant in the Harpur manuscript books at the 
 Mitchell Library; and a list, if not this one, would probably have been 
 prepared for the 1883 *Poems*.
+
+<p class=last-modified>Last modified {last-modified}</p>

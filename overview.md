@@ -16,8 +16,8 @@ compromises that deprived readers of the full picture.
 
 In part, this was because Harpur was a habitual reviser, and because the papers he left behind at his death 
 fell into a confusing state over the following decades, as his widow Mary Harpur 
-sought to secure his legacy. The majority of the 2,700 versions 
-of his 686 works in verse, together with the notes he wrote for them, have never been published.
+sought to secure his legacy. The majority of the nearly 2,700 versions 
+of his 680 works in verse, together with the notes he wrote for them, have never been published.
 
 ### Archival and editorial policy
 
@@ -25,7 +25,7 @@ To address this situation the CHCA archives the basic materials for an
 edition (images and diplomatic transcriptions of the original documents, 
 both handwritten and printed) and provides edited reading texts, 
 together with textual commentary and explanatory notation. At first 
-release in March 2016, the archival responsibility has been 
+release in March 2016, the archival responsibility has been almost entirely
 discharged. The editing is ongoing.
 
 The texts are presented, whether in transcription or as edited, at the level of the *version* rather than the 
@@ -73,3 +73,4 @@ The publisher of the CHCA is Sydney University Press, a division of the
 University of Sydney Library, which archives the CHCA files permanently. 
 Contributors are sought. See further, [Permissions, rights and acknowledgements](34).
 
+<p class=last-modified>Last modified {last-modified}</p>

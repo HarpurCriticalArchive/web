@@ -86,4 +86,4 @@ July 2015
 
 <a href=FN9>9)</a> *Stalwart the Bushranger*, ed. Elizabeth Perkins (Sydney: Currency Press, 1987).
 
-
+<p class=last-modified>Last modified {last-modified}</p>
