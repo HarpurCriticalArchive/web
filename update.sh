@@ -43,14 +43,14 @@ fi
 if [ "$htmlmoddate" -lt "$mdmoddate" ]; then
 # convert special characters to UTF-8
 sed -f /dev/stdin "$1" > "$tmpname" << QUOTES
-    s/ '/ \xE2\x80\x98/g
-    /^'/s/'/\xE2\x80\x98/
-    s/'/\xE2\x80\x99/g
-    s/ "/ \xE2\x80\x9C/g
-    /^"/s/"/\xE2\x80\x9C/
-    s/"/\xE2\x80\x9D/g
-    s/---/\xE2\x80\x94/g
-    s/--/\xE2\x80\x93/g
+    s/ '/ ‘/g
+    /^'/s/'/‘/
+    s/'/’/g
+    s/ "/ “/g
+    /^"/s/"/“/
+    s/"/”/g
+    s/---/—/g
+    s/--/–/g
     s/{last-modified}/`date`/
 QUOTES
 # convert to HTML
