@@ -12,7 +12,7 @@
 
 ### <a name=AS></a>Archival scope of the Charles Harpur Critical Archive
 
-With the few exceptions -- listed below, the Charles Harpur Critical 
+With the few exceptions listed below, the Charles Harpur Critical 
 Archive (CHCA) includes archival transcriptions of all known versions of 
 Harpur’s poems to 1900 – from ‘The Wreck’, published in the Australian 
 on 20 December 1833, to the three poems published in the *Windsor and 
@@ -124,14 +124,14 @@ interim measure. There are currently 36 of these; they are listed at the end of 
 for all the versions for which there is no transcription, or only an 
 unchecked one, are nonetheless available in the CHCA.
 
-**totals**: Not counting the plays there are 680 works in the CHCA in 2,695 versions. The 
-terminal year for the count is 1900. Of the 2,695 versions, 1,574 are in 
+**totals**: Not counting the plays there are 680 works in the CHCA in 2,694 versions. The 
+terminal year for the count is 1900. Of the 2,694 versions, 1,569 are in 
 manuscript (mostly Harpur autographs, with a few in Mary Harpur’s or their 
-son Washington Harpur’s hand), 680 in extant newspapers or magazines, 
+son Washington Harpur’s hand), 672 in extant newspapers or magazines, 
 111 in non-extant newspapers with the versions surviving only as 
-cuttings, 184 in Harpur’s pamphlet, broadsheet and book publications, 
-117 as cuttings of newspapers or published sources with holograph 
-revisions, 19 in correspondence and 19 in published anthologies. The count of versions excludes anthology reprintings to 1900 sourced from Harpur’s book publications.
+cuttings (thus bringing the total known newspaper publications to 783), 190 in Harpur’s pamphlet, broadsheet and book publications, 
+114 as cuttings of newspapers or published sources with holograph 
+revisions (thus bringing the total known manuscript versions to 1683), 19 in correspondence and 19 in published anthologies. The count of versions excludes anthology reprintings to 1900 sourced from Harpur’s book publications.
 
 ### <a name=DPWV></a>Designation of poetic works and versions
 

@@ -26,7 +26,7 @@
 
 <p>For such a broad collection of resources to form an effective basis for producing a digital scholarly edition, the relationships between them had to be clearly defined, or they could not be efficiently or reliably processed. The AustESE ontology was thus developed to provide a model for the primary associations between the people, material objects and the concepts commonly used in scholarly editing. </p>
 
-<p>The primary classes of the AustESE Ontology are: Artefact, Version, Work, Agent and Event. These are defined in Fig. 1. This image should not be seen as a hierarchy of terms since the modularity of the AustESE Ontology enables a collection of digital files to be assembled in any order.</p>
+<p>The primary classes of the AustESE Ontology are: Artefact, Version, Work, Agent and Event. These are defined in Fig. 1. This image should not be seen as a hierarchy of terms since the modularity of the AustESE system enables a collection of digital files to be assembled in any order.</p>
 
 <p><strong>The AustESE workbench</strong> acts as a container for the tools and as an interface to the repository for digital surrogates (i.e. transcription files and image files) of the relevant real-world objects (manuscripts, books, etc.). Each such digital resource then serves as a target for analysis, specifically for annotation and textual commentary.  As the user-creator adds metadata, further relationships among the digital surrogates are automatically asserted.</p>
 
@@ -51,7 +51,7 @@
 
 <h4 id="anameteatranscriptioneditor"><a name=TE></a>Transcription Editor</h4>
 
-<p>For AustESE, transcriptions had been created in standard TEI XML (Text Encoding Initiative extensible markup language), largely because of the lack of a ‘standoff’ or ‘out-of-line’ markup editor, as originally planned. The transcription-editor was designed to assist the human editor by arranging for the image of the relevant manuscript, newspaper or book page to be set next to its transcription, and was enhanced by a third panel containing a live preview in HTML. Thus the human editor could see at a glance what the approximate effects of entering certain XML-codes would have on the finished Web-page or printed book. </p>
+<p>For AustESE, transcriptions had been created in standard TEI XML (Text Encoding Initiative eXtensible Markup Language), largely because of the lack of a ‘standoff’ or ‘out-of-line’ markup editor, as originally planned. The transcription-editor was designed to assist the human editor by arranging for the image of the relevant manuscript, newspaper or book page to be set next to its transcription, and was enhanced by a third panel containing a live preview in HTML. Thus the human editor could see at a glance what the approximate effects of entering certain XML-codes would have on the finished Web-page or printed book. </p>
 
 <h4 id="anametiltatilt"><a name=TILT></a>TILT</h4>
 
@@ -59,7 +59,7 @@
 
 <h4 id="anamecalacalliope"><a name=CAL></a>Calliope</h4>
 
-<p>The <strong>multi version document</strong> (MVD) service called ‘Calliope’ (the Muse of history), was intended as the eventual replacement for the XML-based resources. The multi-version document model presents a collection of separate documents regarded as versions of the one work as a single digital entity. This includes all the internal variations in manuscripts as ‘layers’, that is, as successive states in the evolution of a hand-written text, as far as these could be determined. All text in common between the versions and layers is recorded once only, and all differences are treated as divergences from these common texts. </p>
+<p>The <strong>multi version document</strong> (MVD) service called ‘Calliope’ (the Muse of history), was intended as the eventual replacement for the XML-based resources. The multi-version document model presents a collection of separate documents regarded as versions of the one work as a single digital entity. This includes all the internal variations in manuscripts as ‘layers’, that is, as successive states in the evolution of a hand-written text, as far as these could be determined. All text in common between the versions and layers is recorded once only, and all differences are treated as divergences from the common text. </p>
 
 <p>Calliope did not use inline markup like XML. Instead it separated text into plain text and standoff properties. For example, a piece of underlined text could be assigned the property ‘underlined’, and at the same time the property ‘line’, meaning a line of poetry, and ‘stanza’ if also part of a stanza. Unlike XML, which forces these properties and the text they describe into a strict hierarchical relationship, standoff properties can overlap freely. This allows cases like that shown in Figure 2 to describe properties that freely overlap across line-breaks. This can be roughly mimicked in XML but only with the use of ugly hacks.</p>
 
@@ -93,7 +93,7 @@ Calliope also allowed the export of an entire edition as a ‘psef’ (portable 
 
 <p><strong>MML editor:</strong> allows the user to create and edit transcriptions using a minimal markup language (MML) in a window, with an interactive WYSIWYG preview on one side and a manuscript or book facsimile on the other. Instead of XML, the MML editor uses customised dialects of MarkDown, which is widely used in wikis and already familiar to many humanists. The editor presents to the user only those codes necessary for the structuring of the current document. The codes themselves are also as minimal as can be: white spaces (new lines, spaces, tabs) are used to separate sections and paragraphs, or to indent text, and single-characters are used in pairs, e.g. [&#8230;] to designate a page-number or for formats like italics (*&#8230;*). Notification of syntax errors is not needed, since the user can see immediately through the live preview whether any mistakes have been made, and correct them if the formatting looks wrong. </p>
 
-<p>Unlike the AustESE transcription editor, which only worked on one page at a time, the MML Editor handles one document at a time, and the three windows scroll in sync as closely as possible, so that users does not lose their way, the text being aligned across the centre of the display. If a document contains internal corrections the user only edits one readable layer or state of the document at a time. This helps keep the markup simple. When saved, the newly edited version is merged with the other versions so its correspondence on a character-by-character basis with the other versions is made explicit automatically. Menus are provided to assist formatting and to add annotations. A test version of the MML editor can be seen on the <a href="http://ecdosis.net/mml/test/editor">Ecdosis text site</a></p>
+<p>Unlike the AustESE transcription editor, which only worked on one page at a time, the MML Editor handles one document at a time, and the three windows scroll in sync as closely as possible, so that users do not lose their way, the text being aligned across the centre of the display. If a document contains internal corrections the user only edits one readable layer or state of the document at a time. This helps keep the markup simple. When saved, the newly edited version is merged with the other versions so its correspondence on a character-by-character basis with the other versions is made explicit automatically. Menus are provided to assist formatting and to add annotations. A test version of the MML editor can be seen on the <a href="http://ecdosis.net/mml/test/editor">Ecdosis text site</a></p>
 
 <p>TILT automatically creates text-to-image links at the word-level. It has two interfaces. The first allows the user to manage the recognition process and to edit the word-shapes and links in a semi-automatic way in difficult cases. The second interface is used to pre-flight the recognition process so that optimal settings can be found to recognise words in a particular document. Once recognition is complete, TILT can highlight both the image of each word and its transcription as the user moves a mouse over the text or taps on a word to provide a visual cue. The output from TILT can also be used to correct transcriptions, in conjunction with the MML editor.</p>
 
@@ -117,7 +117,7 @@ Calliope also allowed the export of an entire edition as a ‘psef’ (portable 
 
 <p><strong>Multi-way compare</strong> compares two or more documents side-by-side with synchronised scrolling, showing differences at the character level. Although this only works currently for two versions at a time, it is intended to expand it to multi-way comparison for Ecdosis. This function supplies the basic information for editorial commentary and stands in for a conventional textual apparatus, which, for large-scale printed editions, notoriously takes thousands of hours to create by hand.</p>
 
-<p><strong>Timeline</strong> is an interactive display that allows the user to explore the events of an authorxE2x80x99s life, and to follow links into the edition. This can be used to present auxiliary information such as letters, publication events, biographical events, or anything related to time. The current interface is based on an existing timeline tool, and contains additional features allowing searching and navigation by year.</p>
+<p><strong>Timeline</strong> is an interactive display that allows the user to explore the events of an author’s life, and to follow links into the edition. This can be used to present auxiliary information such as letters, publication events, biographical events, or anything related to time. The current interface is based on an existing timeline tool, and contains additional features allowing searching and navigation by year.</p>
 
 <p><strong>Biography</strong> composes a basic year-by-year biography based on events, containing images and a readable narrative.</p>
 
@@ -127,11 +127,11 @@ Calliope also allowed the export of an entire edition as a ‘psef’ (portable 
 
 <p><strong>TILT</strong> displays document facsimiles next to their transcriptions and links between the two. As the user moves over or taps a word the shape highlights in the image and vice-versa. Images and text scroll in sync.</p>
 
-<p><strong>Paul Eggert and Desmond Schmidt</strong>
+<p><strong>Desmond Schmidt and Paul Eggert</strong>
 July 2015</p>
 
 <h3 id="notes">Notes</h3>
 
-<p><a name=FN1>1)</a> See ‘Rights’ below for the history and funding of AustESE. The code for AustESE, and another account of its development, may be found on <a href="https://github.com/uq-eresearch/AustESE/wiki">Github</a>. Built on <a href="http://www.drupal.org">Drupal</a>, the environment is similar to other content management systems.</p>
+<p><a name=FN1>1)</a> See <a href="node/34">Permissions, rights and acknowledgements</a> for the history and funding of AustESE. The code for AustESE, and another account of its development, may be found on <a href="https://github.com/uq-eresearch/AustESE/wiki">Github</a>. Built on <a href="http://www.drupal.org">Drupal</a>, the environment is similar to other content management systems.</p>
 
-<p class=last-modified>Last modified Sun Aug  2 12:35:52 AEST 2015</p>
+<p class=last-modified>Last modified Tue Aug  4 08:55:29 AEST 2015</p>
