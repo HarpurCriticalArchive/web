@@ -23,7 +23,7 @@ Pages 1–[400]: date 1860–1868. Major part of this volume dates 1867. Some ea
 
 #### [A87-2](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=442626)
 ![A87-2](/images/about/A87-2.jpg)
-(286½ poems) (one newspaper cutting is half in A87-2 and half in C376)<br>
+(285½ poems) (one newspaper cutting is half in A87-2 and half in C376)<br>
 Pages 401–799: continuing from A87–1. Dating haphazardly between 1836–1868. *Format*: Mitchell bound foolscap with miscellaneous inserts. Pages often follow in random order.
 
 #### [A88](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=442627)
@@ -45,12 +45,12 @@ in Mitchell binding. Pages 132, 140–160 appear to belong with pages 203–232 
 
 #### [A91](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=442630)
 ![A91](/images/about/A91.jpg)
-(12 poems)<br>
+(11 poems)<br>
 Two numbering sequences. Pages [i]–84 and pages [i]–83. Sequences based on recto and verso pages. Recto numbering [i]–84, verso numbering [i]–83. Recto and verso determined by Mitchell binding format. Pagination sometimes illegible or missing. Date 1860–1863. *Format*: Pages of approx. 58cm with inserts in various formats.
 
 #### [A92](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=421910#tabs-1)
 ![A92](/images/about/A92.jpg)
-(87 poems) [88]<br>
+(88 poems) [88]<br>
 Pages 1–261/271: some pages double numbered. Date 1845–1868, pages 1–58: earlier than rest of A92. *Format*: Mitchell bound volume comprising two separate collections with three notebooks, 16.5 cm by 11.5 cm, pasted into the first collection. Page 84 has watermark ‘C.Whitman’, page 89 has watermark date ‘1854.’
 
 #### [A93](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=421910#tabs-1)
@@ -60,7 +60,7 @@ Pages 1–121: date possibly 1864–1866, but more probable date 1865–1866. *F
 
 #### [A94](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=421910#tabs-1)
 ![A94](/images/about/A94.jpg)
-(2 poems)<br>
+(1 poem)<br>
 Pages I–97: date 1867. *Format*: Account book with pages of 33 lines. About 21 pages, apparently containing lines of verse, have been excised.
 
 #### [A95](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=421910#tabs-1)
@@ -80,7 +80,7 @@ Pages 1–324: date throughout 1867–1868. *Format*: Foolscap with 34 lines on 
 
 #### [A98-1](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=896927)
 ![A98-1](/images/about/A98-1.jpg)
-(18 poems)<br>
+(16 poems)<br>
 Pages 1–109: date 1853–1855. [This is the numbering of the Mitchell volume not the original numbering of the printed Bushrangers.] *Format*: Material in this volume is a copy of The Bushrangers, A Play in Five Acts, and Other Poems, 1853, with pages missing and extensive alterations and additions to the poems, and with poems written on endpapers. Frontpaper (page i): annotated ‘D. S. Mitchell’ and note ‘Bought from Mrs Baldwin,Charles Harpur’s daughter.’ Page i: version of ‘Trust in God’ date 1853–1855, later than cancelled version on endpaper page 109, annotated by Mrs Harpur? ‘Charles Harpur’.
 
 #### [B78](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=949754)
@@ -90,7 +90,7 @@ Two numbering sequences: pages i–162 and pages i–78. Date 1855 for major par
 
 #### [C376](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=825678)
 ![C376](/images/about/C376.jpg)
-(208½ poems) (one newspaper cutting is half in A87-2 and half in C376)<br>
+(207½ poems) (one newspaper cutting is half in A87-2 and half in C376)<br>
 Pages 1–679. Major part of C376 dates 1849–1856; some pages date 1846–1892 in non–chronological sequence. Some pages are double numbered. *Format*: Miscellaneous pages of lined and unruled paper of different size, colour and texture, bound into volume approx. 20.5 cm by 15 cm. Pages appear to be inserted randomly and sometimes misordered and others missing. Page 1: Britannia watermark dated 1851. Pages 179–265: watermark ‘C. Whitman 1851’, page 237: part of Britannia watermark but no visible date, pages 589–590: watermark ‘E. Lowgood, 1853’, page 679: watermark ‘Patent 1851’.
 
 #### [C377](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=825678)
@@ -123,7 +123,7 @@ Pages 1–[73]: date 1851–1856. *Format*: Notebook 17.8 cm by 13.3 cm. Possibl
 
 #### [C384](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=449070)
 ![C384](/images/about/C384.jpg)
-(41 poems)<br>
+(42 poems)<br>
 Pages i–[137]. Cuttings date 1855–1862. Compiled and amended 1862–1863. Some items identified by lightbox reading from Braidwood papers (Dispatch and Independent) and others as yet unsighted. Amended version of ‘The Creek of the Graves’ (sic) on pages 39–59 may be a broadsheet from the Braidwood Dispatch about 1861–1863. Harpur’s consistent handwriting style suggests that changes to this poem were made approximately within the same period. *Format*: Notebook, 13.5 cm by 8.2 cm, containing newspaper cuttings, many with handwritten alterations and additions. Some pages now loose.
 
 #### [C385](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=825678)
@@ -135,7 +135,7 @@ Pages 1–112: date 1853–1854. *Format*: Octavo booklet 10 cm by 5.5 cm, bound
 ![C386](/images/about/C386.jpg)
 (1 poem)<br>
 Pages [i–144]: date 1859… … …[waiting for Meredith’s description]
-The only source of Fragment 9, ‘Friendship is but a mood inscribed upon’
+The only source of Fragment 9, ‘Friendship is but a word’
 
 #### [D19](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=1120811)
 ![expandable](/images/about/harpur-status.jpg)
@@ -299,7 +299,7 @@ plus 2 poems (pamphlet, 1861? A Rhyme and Coleridge’s Christabel). Source copy
 15 poems (1866–1881)
 
 *Sydney Monitor*. Source copy: [Trove](http://trove.nla.gov.au)
-5 poems (1834–1835)
+4 poems (1834–1835)
 
 *Sydney Morning Herald*. Source copy: [Trove](http://trove.nla.gov.au)
 43 poems (1843–1867)
@@ -334,7 +334,7 @@ The other printed sources are pre-1900 Harpur editions and appearances in anthol
 (7 poems)
 
 *The Bushrangers: A Play in Five Acts, and Other Poems* (Sydney: W. R. Piddington, 1853). Source copy: Rare Books, Fisher Library, RB 1553.14, University of Sydney.
-(44 poems)
+(43 poems)
 
 *A Poet’s Home* (Sydney: Hanson and Bennett, “Empire” Office, 1862). Source copy: [Mitchell Library](http://www.sl.nsw.gov.au/about/collections/mitchell.html), A 821 H295 1A1.
 (2 poems)

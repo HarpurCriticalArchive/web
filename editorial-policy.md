@@ -12,7 +12,7 @@
 
 ### <a name=AS></a>Archival scope of the Charles Harpur Critical Archive
 
-With the few exceptions listed below, the Charles Harpur Critical 
+With the few exceptions -- listed below, the Charles Harpur Critical 
 Archive (CHCA) includes archival transcriptions of all known versions of 
 Harpur’s poems to 1900 – from ‘The Wreck’, published in the Australian 
 on 20 December 1833, to the three poems published in the *Windsor and 
@@ -80,13 +80,12 @@ newspapers and the substantial collection of his manuscript books in the
 Mitchell Library, State Library of New South Wales, Sydney.
 
 For a physical description, a summary of the contents and the number of 
-versions found in each of the 24 manuscript books, see [List of 
-Sources](33). This List also gives the source of the 17 versions of 
+versions found in each of the 24 manuscript books, see [List of Sources](37). This List also gives the source of the 17 versions of 
 poems found in Harpur’s handwritten correspondence. Fifteen are 
 preserved at the Mitchell Library, one at the State Library of Victoria 
 and another at Trinity College, Melbourne.
 
-The [List of Sources](33) also enumerates the surprisingly wide range of 
+The [List of Sources](37) also enumerates the surprisingly wide range of 
 colonial newspapers and journals in which Harpur’s poetry appeared. 
 Nearly 50 in number, concentrated in Sydney and the New South Wales 
 country areas, they extended as far afield as Melbourne, Portland in 
@@ -96,13 +95,13 @@ unidentified newspaper cuttings in the manuscript books in the Mitchell,
 and also probably by printings and reprintings in other newspapers that 
 have escaped attention so far or are no longer extant.
 
-Finally, the [List of Sources](33) gives bibliographic details of the 
+Finally, the [List of Sources](37) gives bibliographic details of the 
 pamphlets and books published under Harpur’s name to 1900 and of the 
 appearances of his poems in anthologies until 1900. In each case, the 
 shelfmark in the holding library of the particular copy from which the 
 transcriptions were taken is given. Later anthology appearances (most of 
 which fall outside the CHCA’s cut-off date of 1900) are provided in the 
-separate [List of Poems in Anthologies to 2004](34) [(1)](#FN1).
+separate [List of Poems in Anthologies to 2004](38) [(1)](#FN1).
 
 ### <a name=PAT></a>Preparation of the archival transcriptions
 
@@ -349,7 +348,7 @@ With the benefit of [TROVE](http://trove.nla.gov.au) and other online
 resources, the CHCA was also able to add 46 versions that were either 
 inadvertently omitted from the *Finding List* or not known to its 
 compilers. Further scanning of colonial newspapers for TROVE in the 
-future may reveal more. One new Harpur work has been discovered, but it is only a four-line fragment.
+future may reveal more. One new Harpur work has been discovered, but it is only a four-line fragment. It has been given an editorial title: 'Friendship is But a Word'.
 
 A small number of **versions for which no transcription or image is 
 currently available** remain in the CHCA. They are retained as 

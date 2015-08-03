@@ -21,11 +21,3 @@ Introduction to the CHCA:
   * [Archival and editorial policy](node/32) 
   * [Technical design](node/35) 
   * [Permissions, rights and acknowledgements](node/34) 
-
-
-
-
-
-
-
-<p class=last-modified>Last modified {last-modified}</p>
