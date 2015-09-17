@@ -20,7 +20,7 @@ The descriptions below are adapted from Elizabeth Holt and Elizabeth Perkins, co
 ![A87-1](/images/about/A87-1.jpg)
 (217 poems)<br>
 Pages 1–[400]: date 1860–1868. Major part of this volume dates 1867. Some early inserted pages date 1868 and later pages probably 1860 and 1865–1866. Annotations by Mrs Harpur and Washington Harpur, and contents list for most collections by Mrs Harpur were added after Harpur’s death. Pagination is unreliable and some pages are double numbered. *Format*: Mitchell bound volume containing a number of gatherings of chiefly unlined foolscap pages of thick textured paper with miscellaneous pages and scraps and inserts bound in.
-![View](http://charles-harpur.org/harpur/msviewer?docid=english/harpur/<A87-1>)
+[View](http://charles-harpur.org/harpur/msviewer?docid=english/harpur/<A87-1>)
 
 #### [A87-2](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=442626)
 ![A87-2](/images/about/A87-2.jpg)
