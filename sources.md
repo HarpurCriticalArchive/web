@@ -17,9 +17,10 @@ The archival transcriptions of Harpur’s poems in the CHCA, on which the edited
 The descriptions below are adapted from Elizabeth Holt and Elizabeth Perkins, compilers, [The Poems of Charles Harpur: An Analytical Finding List (Canberra: Australian Scholarly Editions Centre, 2002)](http://hass.unsw.adfa.edu.au/ASEC/pdf/HarpurFindingList1.pdf). One manuscript book in the Mitchell’s collection of Harpur materials A98-2 is not described as out-of-scope: it contains only Cecil Salier’s typed notes on the other manuscript books (probably late 1940s).
 
 #### [A87-1](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=442626) 
-![A87-1](/images/about/A87-1.jpg) [View](http://charles-harpur.org/harpur/msviewer?docid=english/harpur/<A87-1>)
+![A87-1](/images/about/A87-1.jpg)
 (217 poems)<br>
 Pages 1–[400]: date 1860–1868. Major part of this volume dates 1867. Some early inserted pages date 1868 and later pages probably 1860 and 1865–1866. Annotations by Mrs Harpur and Washington Harpur, and contents list for most collections by Mrs Harpur were added after Harpur’s death. Pagination is unreliable and some pages are double numbered. *Format*: Mitchell bound volume containing a number of gatherings of chiefly unlined foolscap pages of thick textured paper with miscellaneous pages and scraps and inserts bound in.
+[View](http://charles-harpur.org/harpur/msviewer?docid=english/harpur/<A87-1>)
 
 #### [A87-2](http://www.acmssearch.sl.nsw.gov.au/search/itemDetailPaged.cgi?itemID=442626)
 ![A87-2](/images/about/A87-2.jpg)
