@@ -1,5 +1,23 @@
-## POEMS BY CHARLES HARPUR IN ANTHOLOGIES TO 2004
-### Anthology cue-titles
+### **Anthologies before 1900**
+*The Poets and Prose Writers of New South Wales* [VIEW](/harpur/msviewer?docid=english/harpur/PPW), ed. G. B. Barton (Sydney: Gibbs, Shallard & Co., 1866). Source copy: Special Collections, special 134348, Academy Library, University of New South Wales, Canberra. 
+(2 poems)
+
+*Australian Poets 1788-1888* [VIEW](/harpur/msviewer?docid=english/harpur/AP) , ed. Douglas B. W. Sladen (London: Griffith, Farran, Okeden & Welsh, 1888). Source copy: Rare Books, RB 1588.88, Fisher Library, University of Sydney.
+(10 poems)
+
+*Australian Ballads and Rhymes : Poems Inspired by Life and Scenery in Australia and New Zealand.* Selected and Edited by Douglas B. W. Sladen, B.A. Oxon.; B.A., L.L.B. Melbourne, Australia. 1788-1888* [VIEW](/harpur/msviewer?docid=english/harpur/ABR). (London and Newcastle-on Tyne: Walter Scott, 24 Warwick Lane, 1888). (4 poems)
+
+*A Century of Australian Song* [VIEW](/harpur/msviewer?docid=english/harpur/CAS), ed. Douglas B. W. Sladen (London: W. Scott, 1888). Source copy: Rare Books, RB 1588.102, Fisher Library, University of Sydney (Melbourne: E. W. Cole, 1888?)
+(5 poems)
+
+*The Poets and the Poetry of the Century* [VIEW] (/harpur/msviewer?docid=english/harpur/PPC) ed. Alfred H. Miles (Hutchinson and Co. 25 Paternoster Square, London, 1892).
+
+*A Victorian Anthology*, 1837–1895: Selections Illustrating the Editor's Critical Review of British Poetry in the Reign of Victoria [VIEW](/harpur/msviewer?docid=english/harpur/VA), ed. Edmund Clarence Stedman (Boston: Houghton Mifflin & Co.,1895). Source copy: Baillieu Library,  821.08 S812, University of Melbourne.
+(2 poems)
+
+
+### **Anthologies 1900 to 2004**
+
 <table class=cue-titles><tr><td>Ackland</td><td><i>The Penguin Book of 19th Century Australian Literature</i>, ed. Michael Ackland (Ringwood, Vic.: Penguin, 1993)</td></tr>
 <tr><td>Allardice</td><td><i>The Language of Love: An Anthology of Australian Love Letters, Poetry and Prose (North Ryde: Angus & Robertson, 1991)</td></tr>
 <tr><td>Barnes1</td><td><i>Cross-Country: A Book of Australian Verse</i>, ed. John Barnes & Brian Mc Farlane (Richmond, Vic.: Heinemann, 1984)</td></tr>
@@ -153,4 +171,3 @@
 <p>Also, verse snippets in:</p>
 <table class=cue-titles><tr><td>Marbron</td><td><i>The Australasian Birthday Book, Specially Compiled from the Writings of the Poets of New South Wales, Victoria, Queensland, Tasmania, and New Zealand</i>, Myra Marbron (London: Griffith, Farran, Okeden and Welsh, n.d. [1885]) (several brief extracts from ‘The Creek of the Four Graves’, ‘I dreamt my little boys were dead’, ‘Never say aught in verse or grave or gay’, ‘The pregnant saying of a sage’, ‘Standing alone a study in itself’, extract from ‘Australia’s First Great Poet’, ‘Greatness’, ‘The Emigrant’s vision’, ‘The Battle of Life’, ‘Genius Lost’, ‘Trust, Treachery, Wisdom, Folly’, ‘Bright was her brow, not the morning’s brow brighter’, ‘Have the blasts of sorrow worn thee’, ‘Then envy not the splendid wretchedness’, ‘How full of God these evening skies’, ‘Such was my work’, ‘Like him who great reports of tilth rejects’.</td></tr></table>
 
-<p class=last-modified>Last modified {last-modified}</p>

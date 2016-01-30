@@ -1,11 +1,6 @@
-## PERMISSIONS, RIGHTS AND ACKNOWLEDGEMENTS
+### **Permissions, Rights and Acknowledgements**
 
-
-* [Permissions](#PER)
-* [Rights](#RIG)
-* [Acknowledgements](#AKN)
-
-### <a name=PER></a>Permissions
+### Permissions
 Digital images of the bulk of the manuscript and pictorial material published in the CHCA were sourced from the holder of the originals: Mitchell Library, State Library of New South Wales, Sydney. The Library’s permission to publish the material is gratefully acknowledged. This permission extends beyond materials produced by Charles Harpur to images of his two-way correspondence with contemporaries. Correspondence in other libraries has been included, and the co-operation of the State Library of Victoria and Trinity College, Melbourne is gratefully recorded. [(1)](#FN1)
 
 Copies of the image and checked transcription files are preserved by Sydney University Library, of which Sydney University Press, publisher of the CHCA, is a division. Other project files (edited reading texts, commentary, contributions of collaborators) will similarly be preserved as successive stages of publication are reached.
@@ -14,7 +9,7 @@ Efforts have been made, without success, to ascertain the existence of other rig
 
 Images of many of the Harpur poems published in newspapers have been sourced from [TROVE](http://trove.nla.gov.au). They are reproduced courtesy of the National Library of Australia.
 
-### <a name=RIG></a>Rights
+### Rights
 Users of the CHCA wishing to reproduce images published in it are advised to go back to the source: that is, approach the owners or holders of the original materials and seek permission of them. 
 
 The texts of the versions of Charles Harpur’s works published in his lifetime are out of copyright. The new transcriptions of them provided in the CHCA may be freely copied subject only to the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International licence. [(2)](#FN2)
@@ -25,7 +20,7 @@ The open-source [AustESE scholarly editing platform](http://www.austese.net) use
 
 As tested for the suite of AustESE tools and workflow, and as extended and adapted technically during 2014–16, the CHCA will, it is hoped, serve as a forerunner to other editorial projects. For that reason, all adaptations of AustESE tools, workflow and design for the purposes of the CHCA are likewise open-source. The design and programming of the public-facing ‘front-end’ site of the CHCA is by Desmond Schmidt. The design and programming of the production ‘back-end’ site is by Anna Gerber, Desmond Schmidt and Damien Ayers. Schmidt has been responsible for technical design and adaptation work during 2014–16.
 
-### <a name=AKN></a>Acknowledgements
+### Acknowledgements
 The Australian Research Council (ARC) is thanked for the Discovery Grant and professorial fellowship for 2009–14 awarded to Paul Eggert; the combination made the CHCA feasible. Eggert’s co-‘Chief Investigator’ (for ARC purposes) was Elizabeth Webby. Similarly, the overseas ‘Partner Investigator’ was Peter Robinson; his valuable advice in the early stages of the project was much appreciated. 
 
 The University of New South Wales, Canberra and its School of Humanities and Social Sciences where Eggert was based until the end of 2014 supported the project in large ways and small, the latter too numerous to specify. Katherine Barnes, Tessa Wooldridge and Jane Rankine rendered valuable research assistance at different times, and Kent Fitch lent welcome technical advice.
@@ -52,4 +47,3 @@ July 2015**
 
 <a name=FN2>2)</a> [The Creative Commons Licence](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-<p class=last-modified>Last modified {last-modified}</p>

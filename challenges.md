@@ -1,8 +1,4 @@
-## <a name=TEC></a>THE EDITORIAL CHALLENGE
-### Table of Contents
-* [The editorial challenge](#TEC)
-* [Archival aim versus editorial aim](#AVE)
-* [Previous attempts to edit Harpur’s works](#PAH)
+### **The Editorial Challenge**
 
 Coming to grips with the literary-historical phenomenon that Harpur represents requires a shift in focus and a querying of traditional  assumptions about the shape and manifestation of literary careers. Even had Harpur been successful in placing his Works volume with a book publisher in London (see Biographical Sketch), the colonial back-story would have been its obscured context, in need of later illumination. Oddly, the first major endeavour to recapture Harpur’s works in their entirety did this latter requirement no favours, despite the significance of the editorial achievement and the high difficulty of the endeavour.
 
@@ -16,7 +12,7 @@ The edited reading texts are presented in relation to facsimile images of them d
 
 This, in sum, is the aim of the CHCA. The flexibility of digital organisation and presentation makes it feasible. This aim would have been impossible to satisfy in book form, short of an extremely expensive half-dozen large volumes of facsimiles, transcriptions and edited texts. Even then the reader would not have enjoyed the advantages of searching, querying or visualising the data in multiple ways, re-organising the content at will and, if desired, contributing insights to the (ongoing) CHCA itself.
 
-### <a name=AVE></a>Archival aim versus editorial aim
+### Archival aim versus editorial aim
 Balancing interest in Harpur the newspaper poet against Harpur the author of his unrealised Works volume requires all the evidence to be laid on the table. This is the archival aim of the CHCA. The editorial aim is to provide reading texts of each significant version by intervening editorially between the carrying documents and the needs of a modern readership. The principles and conventions for doing so are outlined in Note on the Transcriptions and Reading Texts. 
 
 The scholarly edition, in effect, ‘argues the archive’ in a sustained interpretative gesture. By virtue of its placement within a digital archive of the relevant documents the editing-as-argument opens itself deliberately and explicitly to counter-argument, thus helping to ensure a passage for Charles Harpur’s works into the future – rather than seeking to fix them down definitively once and for all.
@@ -27,7 +23,7 @@ Spanning as they do the period 1833–68 Harpur’s poems and their notes can be
 
 It is hoped that this digital mode of organising the documentary base, with the interpretative effort in close proximity to it, will give a new burst of life to the study of colonial culture. 
 
-### <a name=PAH></a>Previous attempts to edit Harpur’s works
+### Previous attempts to edit Harpur’s works
 Elizabeth Perkins’s edition of *The Poetical Works of Charles Harpur* of 1984 came after a couple of earlier, abortive attempts in the 1940s and 1950s to edit the complete poetry. They in turn followed the discovery by the bibliographer and literary historian Cecil W. Salier (1880–1949) – announced in a series of articles published from 1943 – of the importance of the earlier forms of Harpur’s poems in providing authentic sources for their texts. Salier showed that the 1883 collection *Poems* had put texts into circulation that were seriously misleading not only in comparison with earlier versions published when Harpur was in the prime of manhood but also in comparison with the manuscript books that he prepared in the last couple of years of his life. This 1883 volume had been the trusted source of all selections of Harpur in anthologies hitherto; Salier believed it was time to change tack. [(2)](#FN2)
 
 The first, and as it turned out only, editorial fruit of Salier’s efforts was the slim volume *‘Rosa’: Love Sonnets to Mary Doyle* (containing 38 sonnets in 48 pages), published in Melbourne by the London firm Hutchinson and subsidised by the Commonwealth Literary Fund. Soon after Salier’s death in late 1949 the literary academic Guy Howarth, acting for the Commonwealth Literary Fund (CLF), approached the poet, reviewer, public servant and later journalist Muir Holburn (1920–60) to finish Salier’s work. Although the rest of it was unpublished Salier’s remaining work was well advanced. It is not clear whether the size or comprehensiveness of the new volume was a settled thing, but it was to be accompanied by a brief biography. This was June 1950. 
@@ -86,4 +82,3 @@ July 2015
 
 <a href=FN9>9)</a> *Stalwart the Bushranger*, ed. Elizabeth Perkins (Sydney: Currency Press, 1987).
 
-<p class=last-modified>Last modified {last-modified}</p>

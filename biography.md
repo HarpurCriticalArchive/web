@@ -1,13 +1,6 @@
-## BIOGRAPHICAL SKETCH
+### **Biographical Sketch**
 
-* [The first major Australian poet](#FMAP)
-* [Early life and then Sydney](#ELTS)
-* [Harpur’s character, outlook and politics](#HCOP)
-* [Marriage and later life](#MLL)
-* [Newspaper poet](#NP)
-* [Author of a ‘Poetical Works’](#APW)
-
-### <a name=FMAP></a>The first major Australian poet
+### The first major Australian poet
 
 Born in 1813 in colonial New South Wales only twenty-five years after European settlement, Charles Harpur was Australia’s first important native-born poet. 
 
@@ -15,7 +8,7 @@ He was not the very first, however, for a couple of others preceded him. W. C. W
 
 Charles Tompson was born in Sydney in 1807, six years before Harpur. The AustLit database records his first poem as being published in 1823. In 1826 he published his chief work, *Wild Notes from the Lyre of a Native Minstrel*, the first volume of verse written by a native-born poet to be published in Australia. Harpur’s father subscribed for two copies of it. Thereafter Tompson prudently accepted the rewards of a post in the public service and, in 1832, 100 acres of land from Governor Brisbane in recognition of his efforts.
 
-### <a name=FLTS></a>Early life and then Sydney
+### Early life and then Sydney
 No such generous public acknowledgement of his contribution to colonial society was in store for Charles Harpur. Poetry would have to be its own reward. He was born at Windsor on the Hawkesbury River, some 60 kilometres north-west of Sydney. The township was (and is) picturesquely located on the fertile plains below the Blue Mountains, which loom to the west. Harpur enjoyed what might be called the Wordsworthian advantage, with a boyhood spent amidst unspoiled natural beauty. He had the benefit of a schoolmaster-father who, although himself an ex-convict, must have looked to his son’s education. The young Harpur must have also had access to some good private library, perhaps that of the successful colonial figure, the Reverend Samuel Marsden, who had baptised him. 
 
 By the time Harpur came to live in Sydney in 1833 after some periods on the Hunter River to the north he was sufficiently well read to be able to take part almost immediately in the nascent literary culture of the day, one that would begin to flourish in the 1840s. He began contributing poems to the Sydney newspapers from 1833, and he secured a job in the post office as a letter-sorter and later as a clerk. He would not have had access to books in the expensive and exclusive Australian Subscription Library and Reading Room, Sydney’s first significant public library, which opened in 1827 with 1,000 volumes. But the library of the new Sydney Mechanics’ School of Arts, established in 1833, would have been available to him.
@@ -24,7 +17,7 @@ On 7 April 1838 at the inaugural meeting of the Literary and Debating Society he
 
 The figure based on Harpur – whose talent for poetic composition is not denied – is nevertheless ridiculed for his lack of cultivation and for his vanity. All three – ‘tender-hearted, love-sick swains’ – are ticked off for concentrating too much on love poems. [(1)](#FN1) There was some justice in this jibe as regards Harpur’s earlier poems, but his scope was already expanding. Extracts from an early version of what would become his play *The Bushrangers* (1853) had appeared in 1835 in the Sydney Monitor as ‘The Tragedy of Donohue’.
 
-### <a name=HCOP></a>Harpur’s character, outlook and politics
+### Harpur’s character, outlook and politics
 Falling out with people became something of a habit for Harpur. Even in his twenties he was a proud and upright man, with a prickly dignity that grew from his devotion to his vocation as he saw it. He was jealous of the importance for a young colony of the literary tradition into which he had read his way and of which he would soon become an intelligent critic. Inevitably adopting inherited literary attitudes and diction until he could find his own, Harpur’s poetry would be deeply in tune with the contemporary taste for wild nature and the sublime. Although he would never become a radical original in his poetry, he was easily able to master eighteenth-century verse forms. He was equally at home with the blank verse of the Romantics, with its flexible imitation of the tones of the speaking voice and the inner rhythms of thought. These talents he saw to be at the disposal of the shared colonial experience of a natural antipodean world that needed to be given poetic expression. He would carry his readers with him. This would be his vocation, about which he was and would remain both serious and high-minded.
 
 But he was not only high-minded. Although he was heavily influenced by English and, from the 1840s, American book culture, his years in Sydney meant that, in the newspapers, he soon became adept at scrapping in verse with his opponents, especially those he despised. He could be witheringly satirical and, at times, quite amusing. Of Emancipist (ex-convict) stock himself, he was the natural enemy of the Exclusivists who separated themselves from those with the convict taint. Harpur would take particular delight in skewering the pretensions of the large landholding ‘squatters’, as they were called.
@@ -47,14 +40,14 @@ He would aim to be the poet as public figure. This was an aspiration that his de
 
 His poetry came first. It would traverse a wide historical terrain, which in turn meant addressing broader questions of ethics, aesthetics and political philosophy. The ambitiousness of his poetry, especially in light of his circumstances, is striking.
 
-### <a name=MLL></a>Marriage and later life
+### Marriage and later life
 Harpur met his wife-to-be Mary Doyle in 1843 on the Hunter. Some memorable love poems written to her survive; but her father would not countenance a marriage until the unworldly Harpur could support her. This finally happened in 1850 after he had worked for a period as a schoolteacher. He went on to do sheep-farming for several years, at first on his brother’s run where he also served as postmaster and pound-keeper, before setting up on his own. He tried without luck to borrow enough money from Parkes to buy land on the Barwon River. Finally in 1859 he secured a job as clerk to the gold commissioner at Braidwood, set amongst the bleak beauty of the high tablelands of south-eastern New South Wales. 
 
 For the last months of 1859 Harpur lived there with his family. There were by now two sons and a daughter: Washington (born 1851), Charles Chidley (1853) and Ada Emily (1859); Mary Araluen Harpur would be born in 1861. Harpur first moved down to Araluen and its goldfield, then, in 1863, to the nearby Nerrigundah goldfield and finally, not far away, to the Tuross River near Bodalla. Each lush setting enjoyed the prospect of imposing mountains just to the west. It was at the Tuross River that he built the family home ‘Euroma’. He was fifty.
 
 In this year he was promoted to Assistant Commissioner, adjudicating disputes amongst gold miners over their claims. His salary was £350 p.a. It would be his first and, as things turned out, his only well-remunerated job. He would die in 1868, broken in health following the death of his second son in a shooting accident the previous year and after having fought a long, humiliating battle for financial relief following his retrenchment from government service in 1866 during a budgetary crisis.
 
-### <a name=NP></a>Newspaper poet
+### Newspaper poet
 In his high ambition to become known as the singer of a nation-in-the-making, Harpur would be unsuccessful, at least as judged by the appearance of his works in conventional book form. The only significant exception was Harpur’s play *The Bushrangers*, published in Sydney in 1853 in a volume that also contained some of his poems. W. R. Piddington was the publisher. While it is possible that Parkes assisted with the costs no evidence has emerged to confirm it.
 
 Besides this publication, only a handful of pamphlets and broadsheets appeared, including *Songs of Australia, First Series* printed by D. L. Welch in Sydney probably around 1850–51. Preserved in the Mitchell Library, this unique copy – which was either a broadsheet or a galley sheet, subsequently torn into segments – is pasted face down (it is not known by whom) to show what Harpur would newly write on the blank versos, which are face up. Unable to be read, the item typifies the essential problem in coming to grips with Harpur’s works, a problem that is both materially based and interpretative at once.
@@ -65,7 +58,7 @@ Harpur’s reception in his contemporary colonial print culture was nevertheless
 
 In the 1860s his production, as judged by his newspaper appearances, fell away. With a well-paid job from 1863 the inducement of possible payments – that is, assuming there were actually any on offer for newspaper poems in prestigious newspapers such as the *Sydney Morning Herald* by then – would have been less urgent; [(3)](#FN3) and the demands of his job would presumably have occupied much of his available time. He explained the case in correspondence with the much younger poet Henry Kendall (born 1840). [(4)](#FN4) The latter approached Harpur in 1862 and proceeded enthusiastically to support his senior fellow-poet, acting as both a discerning commentator on Harpur’s earlier and new productions, and as his unpaid literary agent, placing the poems for publication with Sydney newspapers.
 
-### <a name=APW></a>Author of a ‘Poetical Works’
+### Author of a ‘Poetical Works’
 By this time, Harpur despaired of his colonial reception and turned his attention instead to preparing for the long-hoped-for book publication of his Works in London. [(5)](#FN5) He studiously revised and rearranged his poems in manuscript books; they are preserved in the Mitchell Library in Sydney. But that intended publication was never to be; and Harpur died, from consumption, in the bitter knowledge of defeat. 
 In 1883 his widow Mary Harpur managed to get a large selection of his poetry published by George Robertson in Melbourne. But they were abridged and bowdlerised by a literary friend to bring them up to date: that is, up to a date that is now itself only historical. The cost of the printing and binding was borne by relatives, and the book was sold by subscription in an attempt to recoup the anticipated outlay in advance. Despite this precaution, a large number of unbound copies, evidently left unsold, were reissued in 1899 in paperback format by the Sydney bookseller-publisher William Dymock, following a campaign over several years by Harpur’s loyal widow to achieve republication. [(6)](#FN6) She died in that same year.
 
@@ -86,5 +79,4 @@ July 2015
 
 <a name=FN6>6)</a> See Timeline: Letter, Angus & Robertson (George Robertson) to Mary Harpur, 11 July 1896.
 
-<p class=last-modified>Last modified {last-modified}</p>
 
