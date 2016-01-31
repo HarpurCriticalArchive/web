@@ -13,5 +13,5 @@ curl -F "docid=english/harpur/about/biography" -F "biography=@biography.md;type=
 curl -F "docid=english/harpur/about/technical" -F "technical=@technical-design.md;type=text/x-markdown" http://charles-harpur.org/misc/
 curl -F "docid=english/harpur/home" -F "home=@home.md;type=text/x-markdown" http://charles-harpur.org/misc/
 echo "updating images"
-rsync -t ./$htmldir/images/*.png ./$htmldir/images/*.jpg $remotesite:/var/www/images/$htmldir/
+rsync -t ./about/images/*.png ./about/images/*.jpg charles-harpur.org:/var/www/images/about/
 echo "done!"
